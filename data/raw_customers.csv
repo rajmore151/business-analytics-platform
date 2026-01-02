@@ -1,0 +1,17 @@
+customer_id,first_name,last_name,email,phone,city,state,country
+1,Rahul,Sharma,rahul.sharma@email.com,9876543210,Mumbai,Maharashtra,India
+2,Priya,Patel,priya.patel@email.com,9876543211,Ahmedabad,Gujarat,India
+3,Amit,Kumar,amit.kumar@email.com,,Delhi,Delhi,India
+4,Sneha,Desai,sneha.desai@email.com,9876543213,Pune,Maharashtra,India
+5,Vikram,Singh,vikram.singh@email.com,9876543214,Bangalore,Karnataka,India
+6,Anjali,Mehta,anjali.mehta@email.com,9876543215,Mumbai,Maharashtra,India
+7,Rohan,Verma,,9876543216,Hyderabad,Telangana,India
+8,Pooja,Iyer,pooja.iyer@email.com,9876543217,Chennai,Tamil Nadu,India
+9,Arjun,Reddy,arjun.reddy@email.com,9876543218,Bangalore,Karnataka,India
+10,Kavya,Nair,kavya.nair@email.com,,Kochi,Kerala,India
+1,Rahul,Sharma,rahul.sharma@email.com,9876543210,Mumbai,Maharashtra,India
+11,Sanjay,Gupta,sanjay@invalid,9876543220,Delhi,Delhi,India
+12,Meera,Joshi,meera.joshi@email.com,98765,Pune,Maharashtra,India
+13,Karan,Malhotra,karan.malhotra@email.com,9876543222,Mumbai,Maharashtra,India
+14,Riya,Das,riya.das@email.com,9876543223,Kolkata,West Bengal,India
+15,Aditya,Rao,aditya.rao@email.com,9876543224,Bangalore,Karnataka,India
