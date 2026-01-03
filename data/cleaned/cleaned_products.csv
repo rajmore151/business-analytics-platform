@@ -1,0 +1,13 @@
+product_id,product_name,category,price,stock_quantity
+101,Samsung Galaxy S23,Electronics,79999.0,50
+102,Apple iPhone 14,Electronics,89999.0,30
+103,Sony Headphones WH-1000XM5,Electronics,29999.0,75
+104,Levi's Jeans,Fashion,2999.0,100
+105,Nike Running Shoes,Fashion,5999.0,60
+106,HP Laptop 15s,Electronics,45999.0,25
+107,Adidas T-Shirt,Fashion,1499.0,150
+108,OnePlus Nord 3,Electronics,32999.0,40
+109,Boat Earbuds,Electronics,1999.0,200
+110,Puma Trackpants,Fashion,2499.0,80
+112,Zara Casual Shirt,Fashion,2999.0,90
+113,Mi Smart Band 7,Electronics,2799.0,120

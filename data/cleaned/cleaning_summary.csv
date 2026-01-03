@@ -1,0 +1,17 @@
+dataset,action,rows_affected
+customers,duplicates_removed,1
+customers,duplicate_ids_removed,0
+customers,missing_critical_removed,0
+products,missing_product_name,1
+products,invalid_price_removed,2
+products,negative_stock_fixed,0
+products,duplicate_ids_removed,0
+orders,missing_order_date,1
+orders,future_dates_removed,1
+orders,invalid_status_removed,1
+orders,orphaned_customer_id,0
+orders,duplicate_ids_removed,0
+order_items,invalid_quantity_removed,1
+order_items,invalid_price_removed,1
+order_items,orphaned_order_id,1
+order_items,orphaned_product_id,0
