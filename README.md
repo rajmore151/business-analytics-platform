@@ -66,7 +66,7 @@ This project demonstrates proficiency in:
 
 **Raj Sudhir More**  
 EXTC Engineering Student | Aspiring Data Engineer  
-[GitHub](https://github.com/rajmore151) | [LinkedIn](#)
+[GitHub](https://github.com/rajmore151) | [LinkedIn](https://www.linkedin.com/in/raj-more-a1839b2a0/)
 
 ---
 
