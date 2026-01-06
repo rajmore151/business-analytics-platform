@@ -102,7 +102,7 @@ class CleaningPipeline:
             filename = f"cleaned_{name}.csv"
             filepath = os.path.join(self.clean_data_dir, filename)
             df.to_csv(filepath, index=False)
-            print(f"  ✓ Saved: {filename} ({len(df)} rows)")
+            print(f"  * Saved: {filename} ({len(df)} rows)")
     
     def generate_reports(self, raw_datasets, cleaned_datasets):
         """
@@ -141,11 +141,11 @@ class CleaningPipeline:
             # Save detailed error report
             error_filepath = os.path.join(self.clean_data_dir, 'validation_errors.csv')
             error_report.to_csv(error_filepath, index=False)
-            print(f"\n  ✓ Detailed error report saved: validation_errors.csv")
+            print(f"\n  * Detailed error report saved: validation_errors.csv")
         else:
             print("  No validation errors found.")
         
         # Save cleaning summary
         summary_filepath = os.path.join(self.clean_data_dir, 'cleaning_summary.csv')
         cleaning_report.to_csv(summary_filepath, index=False)
-        print(f"\n  ✓ Cleaning summary saved: cleaning_summary.csv")
+        print(f"\n  * Cleaning summary saved: cleaning_summary.csv")
